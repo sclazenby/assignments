@@ -1,0 +1,1 @@
+We went a massive csv file and the python script filtered it so that only rows where over 100$ were spent out water were written back to STDOUT (and piped to the new expensive_water csv). Then we redirected that csv into a fext file and opened this text box. 
